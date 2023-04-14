@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "849271572263",
+    "project_id": "stempediaandroidtask1",
+    "storage_bucket": "stempediaandroidtask1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849271572263:android:ce114e78759bfedc63cb02",
+        "android_client_info": {
+          "package_name": "com.example.stempediaandroidtask1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849271572263-ujj51kvriomvlvjk03s2kt1abc9f0qgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stempediaandroidtask1",
+            "certificate_hash": "17e5026ad80efe578d9ebc8cf426654c6de77388"
+          }
+        },
+        {
+          "client_id": "849271572263-ahn4135t3b9iouvjtutf13difed6abkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2LLY3rSJfACNazGazf2YWR6yxYymiZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849271572263-ahn4135t3b9iouvjtutf13difed6abkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
